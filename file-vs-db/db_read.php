@@ -2,13 +2,18 @@
 
 include "config.php";
 
-
-// Operation completed in 0.66953277587891 seconds
-// Operation completed in 0.69946002960205 seconds
-// Operation completed in 0.7011890411377 seconds
-// Operation completed in 0.73265790939331 seconds
-// Operation completed in 0.70617413520813 seconds
-
+/**
+ * local devbox
+ *
+ * Operation completed in 0.66953277587891 seconds
+ * Operation completed in 0.69946002960205 seconds
+ * Operation completed in 0.7011890411377 seconds
+ * Operation completed in 0.73265790939331 seconds
+ * Operation completed in 0.70617413520813 seconds
+ * 
+ * amazon ec2
+ * Operation completed in 0.76090002059937 seconds
+ */
 $max = 10000;
 $largest_table_id = 10000;
 $random_numbers = array();
