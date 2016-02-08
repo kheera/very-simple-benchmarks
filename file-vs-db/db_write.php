@@ -18,8 +18,11 @@ include "config.php";
  * Operation completed in 2.520437002182 seconds
  * Operation completed in 2.5529029369354 seconds
  *
- * amazon ec2 results
- * Operation completed in 16.108047962189 seconds
+ * amazon ec2 SSD  (local mysql db)
+ * Operation completed in 16.108047962189 second
+ * amazon ec2 iops  (local mysql db)
+ * Operation completed in 126.9714589119 seconds
+ * Operation completed in 123.20124387741 seconds
  */
 $max = 10000;
 $start = microtime(true);;

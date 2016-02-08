@@ -11,8 +11,10 @@ include "config.php";
 // Operation completed in 5.8726959228516 seconds
 // Operation completed in 5.8997149467468 seconds
 /**
- * amazon ec2
+ * amazon ec2 ssd
  * Operation completed in 0.058227062225342 seconds
+ * amazon ec2 iops
+ * Operation completed in 0.058067083358765 seconds
  */
 $max = 10000;
 

@@ -11,8 +11,13 @@ include "config.php";
  * Operation completed in 0.73265790939331 seconds
  * Operation completed in 0.70617413520813 seconds
  * 
- * amazon ec2
+ * amazon ec2 ssd
  * Operation completed in 0.76090002059937 seconds
+ * amazon ec2 iops
+ * Operation completed in 1.0416920185089 seconds
+ * Operation completed in 0.79521322250366 seconds
+ * Operation completed in 0.66558504104614 seconds
+ * 
  */
 $max = 10000;
 $largest_table_id = 10000;
