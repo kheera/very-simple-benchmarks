@@ -3,14 +3,16 @@
 include "config.php";
 
 /**
- * local devbox
- *
+ * local devbox (on vagrant/windows shared folder)
  * Operation completed in 0.66953277587891 seconds
  * Operation completed in 0.69946002960205 seconds
  * Operation completed in 0.7011890411377 seconds
  * Operation completed in 0.73265790939331 seconds
  * Operation completed in 0.70617413520813 seconds
- * 
+ *
+ * local devbox (on vagrant ubuntu folder)
+ * Operation completed in 0.039722919464111 seconds
+ *
  * amazon ec2 ssd
  * Operation completed in 0.76090002059937 seconds
  * amazon ec2 iops
