@@ -1,5 +1,4 @@
- CREATE TABLE `write_test` (
-  `id` int(6) unsigned NOT NULL AUTO_INCREMENT,
-  `text` varchar(255) DEFAULT NULL,
-  `count` int(6) unsigned DEFAULT NULL,
-  PRIMARY KEY (`id`)
+create table write_test (
+id int(6) unsigned auto_increment primary key,
+text varchar(255),
+count int(6) unsigned)
