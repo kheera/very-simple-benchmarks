@@ -19,7 +19,15 @@ include "config.php";
  * Operation completed in 1.0416920185089 seconds
  * Operation completed in 0.79521322250366 seconds
  * Operation completed in 0.66558504104614 seconds
- * 
+ *
+ * amazon ec2 w/ rds
+ * Operation completed in 4.8327941894531 seconds
+ * Operation completed in 4.9107501506805 seconds
+ *
+ * amazon ec2 aws linux
+ * Operation completed in 0.95765995979309 seconds
+ * Operation completed in 0.95629191398621 seconds
+ * Operation completed in 0.94154405593872 seconds
  */
 $max = 10000;
 $largest_table_id = 10000;

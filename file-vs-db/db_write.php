@@ -12,12 +12,21 @@ include "config.php";
  * local devbox (on vagrant ubuntu folder)
  * Operation completed in 2.5279829502106 seconds
  * 
- * amazon ec2 SSD  (local mysql db)
+ * amazon ec2 (ubuntu) SSD  (local mysql db)
  * Operation completed in 16.108047962189 second
  * 
- * amazon ec2 iops  (local mysql db)
+ * amazon ec2 (ubuntu) iops  (local mysql db)
  * Operation completed in 126.9714589119 seconds
  * Operation completed in 123.20124387741 seconds
+ *
+ * amazon ec2  (ubuntu) w/ rds
+ * Operation completed in 81.073271036148 seconds
+ * Operation completed in 60.2401471138 seconds (using persistant mysql connections)
+ *
+ * amazon ec2 aws linux
+ * Operation completed in 11.50927901268 seconds
+ * Operation completed in 11.394139051437 seconds
+ * Operation completed in 11.38157916069 seconds
  */
 $max = 10000;
 $start = microtime(true);;

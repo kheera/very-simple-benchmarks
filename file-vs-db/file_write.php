@@ -17,6 +17,9 @@ include "config.php";
  * Operation completed in 0.07337498664856 seconds
  * amazon ec2 iops 
  * Operation completed in 0.077187061309814 seconds
+ *
+ * amazon ec2 aws linux
+ * Operation completed in 0.05086612701416 seconds
  */
 $max = 10000;
 
